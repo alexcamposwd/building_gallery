@@ -1,0 +1,327 @@
+{
+  "building": [
+    {
+      "id": 1,
+      "title": "Chateau St. Mariana",
+      "location": "Caçapava / SP",
+      "category": "cidade",
+      "size": "+500",
+      "thumbnail": "https://i.imgur.com/JG3Obo3.jpg",
+      "img": {
+        "img01": "https://i.imgur.com/eyVEvAR.jpg",
+        "img02": "https://i.imgur.com/yYTrUBJ.jpg",
+        "img03": "https://i.imgur.com/8mtzaL5.jpg",
+        "img04": "https://i.imgur.com/6mHyc2v.jpg",
+        "img05": "https://i.imgur.com/kw0FO0j.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Country House",
+      "category": "montanha",
+      "location": "São Francisco Xavier / SP",
+      "size": "+500",
+      "thumbnail": "https://i.imgur.com/wcc3JCY.jpg",
+      "img": {
+        "img01": "https://i.imgur.com/qWvoIIh.jpg",
+        "img02": "https://i.imgur.com/KvAZFOp.jpg",
+        "img03": "https://i.imgur.com/f5ZZiam.jpg",
+        "img04": "https://i.imgur.com/n9VfuXW.jpg",
+        "img05": "https://i.imgur.com/hHgSSeX.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Millenium Falcon",
+      "category": "cidade",
+      "location": "São José dos Campos / SP",
+      "size": "+100",
+      "thumbnail": "https://i.imgur.com/GviTkKw.jpg",
+      "img": {
+        "img01": "https://i.imgur.com/o0lSs4H.jpg",
+        "img02": "https://i.imgur.com/rJ5S8sl.jpg",
+        "img03": "https://i.imgur.com/cVnv2Lk.jpg",
+        "img04": "https://i.imgur.com/M5XSijb.jpg",
+        "img05": "https://i.imgur.com/YfU0yRt.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Mountain Cottage",
+      "category": "montanha",
+      "location": "Campos do Jordão / SP",
+      "size": "+300",
+      "thumbnail": "https://i.imgur.com/CkYevCn.jpg",
+      "img": {
+        "img01": "https://i.imgur.com/lNiMzBg.jpg",
+        "img02": "https://i.imgur.com/JMOi9g2.jpg",
+        "img03": "https://i.imgur.com/yfJcRac.jpg",
+        "img04": "https://i.imgur.com/UwaWKBY.jpg",
+        "img05": "https://i.imgur.com/2HPWe68.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "title": "The Saloon",
+      "category": "cidade",
+      "location": "Paraibuna / SP",
+      "size": "+400",
+      "thumbnail": "https://i.imgur.com/BMcHlZx.jpg",
+      "img": {
+        "img01": "https://i.imgur.com/pCnQY8r.jpg",
+        "img02": "https://i.imgur.com/Y0eQrh7.jpg",
+        "img03": "https://i.imgur.com/TxZhQXa.jpg",
+        "img04": "https://i.imgur.com/nMgmnFX.jpg",
+        "img05": "https://i.imgur.com/HYfuXpY.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Log House",
+      "category": "campo",
+      "location": "Cotia / SP",
+      "size": "+300",
+      "thumbnail": "https://i.imgur.com/h9Zx1yS.jpg",
+      "img": {
+        "img01": "https://i.imgur.com/IxIhGng.jpg",
+        "img02": "https://i.imgur.com/DfJnN1o.jpg",
+        "img03": "https://i.imgur.com/KbKXBoX.jpg",
+        "img04": "https://i.imgur.com/6HjCgxi.jpg",
+        "img05": "https://i.imgur.com/vpa4lul.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Green House",
+      "category": "cidade",
+      "location": "Jambeiro / SP",
+      "size": "+400",
+      "thumbnail": "https://i.imgur.com/8ateEqY.jpg",
+      "img": {
+        "img01": "https://i.imgur.com/HwR0esb.jpg",
+        "img02": "https://i.imgur.com/yXoMjeI.jpg",
+        "img03": "https://i.imgur.com/En4azQi.jpg",
+        "img04": "https://i.imgur.com/SjYFeFa.jpg",
+        "img05": "https://i.imgur.com/Ch31WUe.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Infinity Blue",
+      "category": "praia",
+      "location": "Ubatuba / SP",
+      "size": "+200",
+      "thumbnail": "https://i.imgur.com/bamMkGt.jpg",
+      "img": {
+        "img01": "https://i.imgur.com/qKUfnfk.jpg",
+        "img02": "https://i.imgur.com/1kECPaC.jpg",
+        "img03": "https://i.imgur.com/kaeOjNz.jpg",
+        "img04": "https://i.imgur.com/Dn7F6bN.jpg",
+        "img05": "https://i.imgur.com/3oe3haN.jpg"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Terrace the Sun",
+      "category": "cidade",
+      "location": "Taubaté / SP",
+      "size": "+500",
+      "thumbnail": "https://i.imgur.com/vO42WzU.jpg",
+      "img": {
+        "img01": "https://i.imgur.com/44Fpy2f.jpg",
+        "img02": "https://i.imgur.com/RWJZkKG.jpg",
+        "img03": "https://i.imgur.com/iTOtQ0O.jpg",
+        "img04": "https://i.imgur.com/O2MlNMp.jpg",
+        "img05": "https://i.imgur.com/JnKMJzb.jpg"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Warrior's Corner",
+      "category": "campo",
+      "location": "Paraibuna / SP",
+      "size": "+500",
+      "thumbnail": "https://i.imgur.com/emlWKvu.jpg",
+      "img": {
+        "img01": "https://i.imgur.com/tlDoDSL.jpg",
+        "img02": "https://i.imgur.com/LmMZyX9.jpg",
+        "img03": "https://i.imgur.com/xgBejmO.jpg",
+        "img04": "https://i.imgur.com/Y08vNPl.jpg",
+        "img05": "https://i.imgur.com/ca11uTy.jpg"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Blue House",
+      "category": "cidade",
+      "location": "São José dos Campos / SP",
+      "size": "+400",
+      "thumbnail": "https://i.imgur.com/RngVIRt.jpg",
+      "img": {
+        "img01": "https://i.imgur.com/94gvsVn.jpg",
+        "img02": "https://i.imgur.com/Jz9bu5o.jpg",
+        "img03": "https://i.imgur.com/3ivS2kI.jpg",
+        "img04": "https://i.imgur.com/trFAMws.jpg",
+        "img05": "https://i.imgur.com/lYjWSVy.jpg"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Big Round",
+      "category": "campo",
+      "location": "Paraibuna / SP",
+      "size": "+300",
+      "thumbnail": "https://i.imgur.com/nNQHCHt.jpg",
+      "img": {
+        "img01": "https://i.imgur.com/NT9Irio.jpg",
+        "img02": "https://i.imgur.com/YLWets6.jpg",
+        "img03": "https://i.imgur.com/49vA0kQ.jpg",
+        "img04": "https://i.imgur.com/eZoV9XX.jpg",
+        "img05": "https://i.imgur.com/IHjeWr2.jpg"
+      }
+    },
+    {
+      "id": 13,
+      "title": "Buriti House",
+      "category": "cidade",
+      "location": "Jacareí / SP",
+      "size": "+100",
+      "thumbnail": "https://i.imgur.com/HR1mgzH.jpg",
+      "img": {
+        "img01": "https://i.imgur.com/J7PLFbZ.jpg",
+        "img02": "https://i.imgur.com/K222A4H.jpg",
+        "img03": "https://i.imgur.com/6wkMmbH.jpg",
+        "img04": "https://i.imgur.com/rGup51Z.jpg",
+        "img05": "https://i.imgur.com/ZxEzmDL.jpg"
+      }
+    },
+    {
+      "id": 14,
+      "title": "Baobá House",
+      "category": "praia",
+      "location": "São Sebastião / SP",
+      "size": "+200",
+      "thumbnail": "https://i.imgur.com/eltPAnw.jpg",
+      "img": {
+        "img01": "https://i.imgur.com/mSAZPjM.jpg",
+        "img02": "https://i.imgur.com/6HmKvwz.jpg",
+        "img03": "https://i.imgur.com/pfd78Mz.jpg",
+        "img04": "https://i.imgur.com/U2HbxEE.jpg",
+        "img05": "https://i.imgur.com/xEoEBml.jpg"
+      }
+    },
+    {
+      "id": 15,
+      "title": "Ipê House",
+      "category": "cidade",
+      "location": "Taubaté / SP",
+      "size": "+300",
+      "thumbnail": "https://i.imgur.com/EAAKd87.jpg",
+      "img": {
+        "img01": "https://i.imgur.com/CM4S2fu.jpg",
+        "img02": "https://i.imgur.com/kHz4m41.jpg",
+        "img03": "https://i.imgur.com/1AOFYYL.jpg",
+        "img04": "https://i.imgur.com/FZTR0QQ.jpg",
+        "img05": "https://i.imgur.com/3ScTkiv.jpg"
+      }
+    },
+    {
+      "id": 16,
+      "title": "Jequitibá House",
+      "category": "praia",
+      "location": "Ubatuba / SP",
+      "size": "+200",
+      "thumbnail": "https://i.imgur.com/YzHIzC9.jpg",
+      "img": {
+        "img01": "https://i.imgur.com/rktzQmx.jpg",
+        "img02": "https://i.imgur.com/B59ORJP.jpg",
+        "img03": "https://i.imgur.com/VPLUJMY.jpg",
+        "img04": "https://i.imgur.com/5sbtRra.jpg",
+        "img05": "https://i.imgur.com/JbVnGM6.jpg"
+      }
+    },
+    {
+      "id": 17,
+      "title": "Jatobá House",
+      "category": "cidade",
+      "location": "São José dos Campos / SP",
+      "size": "+300",
+      "thumbnail": "https://i.imgur.com/o7aterk.jpg",
+      "img": {
+        "img01": "https://i.imgur.com/FvZAM2U.jpg",
+        "img02": "https://i.imgur.com/rR3cJIc.jpg",
+        "img03": "https://i.imgur.com/2htel2t.jpg",
+        "img04": "https://i.imgur.com/Z46lnlN.jpg",
+        "img05": "https://i.imgur.com/XaM1m3I.jpg"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "todas"
+    },
+    {
+      "id": 2,
+      "name": "cidade"
+    },
+    {
+      "id": 3,
+      "name": "campo"
+    },
+    {
+      "id": 4,
+      "name": "montanha"
+    },
+    {
+      "id": 5,
+      "name": "praia"
+    }
+  ],
+  "localization": [
+    {
+      "id": 1,
+      "name": "Taubaté / SP"
+    },
+    {
+      "id": 2,
+      "name": "Caçapava / SP"
+    },
+    {
+      "id": 3,
+      "name": "São José dos Campos / SP"
+    },
+    {
+      "id": 4,
+      "name": "São Francisco Xavier / SP"
+    },
+    {
+      "id": 5,
+      "name": "Campos do Jordão / SP"
+    },
+    {
+      "id": 6,
+      "name": "Paraibuna / SP"
+    },
+    {
+      "id": 7,
+      "name": "Jambeiro / SP"
+    },
+    {
+      "id": 8,
+      "name": "Jacareí / SP"
+    },
+    {
+      "id": 9,
+      "name": "Cotia / SP"
+    },
+    {
+      "id": 10,
+      "name": "Ubatuba / SP"
+    },
+    {
+      "id": 11,
+      "name": "São Sebastião / SP"
+    }
+  ]
+}
