@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from "react";
+import axios from "axios";
+
 import Port from "./components/Port";
 import Categories from "./components/Categories";
 import Header from "./components/Header";
@@ -15,31 +17,12 @@ function App() {
       : builds.filter((build) => build.category.includes(selectedCategory));
 
   useEffect(() => {
-    fetch("http://localhost:4000/building", {
-      method: "GET",
-      headers: {
-        "Content-Type": "application/json",
-      },
-    })
-      .then((res) => res.json())
-      .then((data) => {
-        setBuilds(data);
-      })
-      .catch((error) => console.log(error));
-  }, []);
-
-  useEffect(() => {
-    fetch("http://localhost:4000/categories", {
-      method: "GET",
-      headers: {
-        "Content-Type": "application/json",
-      },
-    })
-      .then((res) => res.json())
-      .then((data) => {
-        setCategories(data);
-      })
-      .catch((error) => console.log(error));
+    (async () => {
+      const apiBuild = await axios.get("http://localhost:5000/building");
+      const apiCategory = await axios.get("http://localhost:5000/categories");
+      setBuilds(apiBuild.data);
+      setCategories(apiCategory.data);
+    })();
   }, []);
 
   const handleChange = (event) => {

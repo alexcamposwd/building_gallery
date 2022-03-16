@@ -277,51 +277,5 @@
       "id": 5,
       "name": "praia"
     }
-  ],
-  "localization": [
-    {
-      "id": 1,
-      "name": "Taubaté / SP"
-    },
-    {
-      "id": 2,
-      "name": "Caçapava / SP"
-    },
-    {
-      "id": 3,
-      "name": "São José dos Campos / SP"
-    },
-    {
-      "id": 4,
-      "name": "São Francisco Xavier / SP"
-    },
-    {
-      "id": 5,
-      "name": "Campos do Jordão / SP"
-    },
-    {
-      "id": 6,
-      "name": "Paraibuna / SP"
-    },
-    {
-      "id": 7,
-      "name": "Jambeiro / SP"
-    },
-    {
-      "id": 8,
-      "name": "Jacareí / SP"
-    },
-    {
-      "id": 9,
-      "name": "Cotia / SP"
-    },
-    {
-      "id": 10,
-      "name": "Ubatuba / SP"
-    },
-    {
-      "id": 11,
-      "name": "São Sebastião / SP"
-    }
   ]
 }
