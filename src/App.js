@@ -18,8 +18,8 @@ function App() {
 
   useEffect(() => {
     (async () => {
-      const apiBuild = await axios.get("http://alexcamposwd/building_gallery/api/building");
-      const apiCategory = await axios.get("http://alexcamposwd/building_gallery/api/categories");
+      const apiBuild = await axios.get("http://alexcamposwd/building_gallery/building");
+      const apiCategory = await axios.get("http://alexcamposwd/building_gallery/categories");
       setBuilds(apiBuild.data);
       setCategories(apiCategory.data);
     })();
