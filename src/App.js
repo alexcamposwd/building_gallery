@@ -16,10 +16,12 @@ function App() {
       ? builds
       : builds.filter((build) => build.category.includes(selectedCategory));
 
+  const JSON_API = "https://building-gallery.herokuapp.com/api"
+
   useEffect(() => {
     (async () => {
-      const apiBuild = await axios.get("http://localhost:4040/building");
-      const apiCategory = await axios.get("http://localhost:4040/categories");
+      const apiBuild = await axios.get(`${JSON_API}/building`);
+      const apiCategory = await axios.get(`${JSON_API}/categories`);
       setBuilds(apiBuild.data);
       setCategories(apiCategory.data);
     })();
