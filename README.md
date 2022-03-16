@@ -18,6 +18,8 @@ O estudo é baseado na execução de uma galeria de fotos utilizando React.
 - Json-Server.
 - Deploy Heroku.
 
+https://building-gallery.herokuapp.com/
+
 ### License/Licença do Projeto
 [MIT License](./LICENSE) © ![alexcamposwd](https://img.shields.io/badge/-alexcamposwd-blue?&style=flat)
 
