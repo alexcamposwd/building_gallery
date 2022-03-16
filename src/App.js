@@ -18,8 +18,8 @@ function App() {
 
   useEffect(() => {
     (async () => {
-      const apiBuild = await axios.get("https://building-gallery.herokuapp.com/building");
-      const apiCategory = await axios.get("https://building-gallery.herokuapp.com/categories");
+      const apiBuild = await axios.get("http://localhost:4040/building");
+      const apiCategory = await axios.get("http://localhost:4040/categories");
       setBuilds(apiBuild.data);
       setCategories(apiCategory.data);
     })();
