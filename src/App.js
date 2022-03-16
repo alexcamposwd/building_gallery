@@ -18,8 +18,8 @@ function App() {
 
   useEffect(() => {
     (async () => {
-      const apiBuild = await axios.get("http://localhost:5000/building");
-      const apiCategory = await axios.get("http://localhost:5000/categories");
+      const apiBuild = await axios.get("/building");
+      const apiCategory = await axios.get("/categories");
       setBuilds(apiBuild.data);
       setCategories(apiCategory.data);
     })();
