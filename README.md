@@ -1,7 +1,7 @@
 ## <a href="#">Galeria Imagens - React</a>
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/alexcamposwd/jwt_tsc_vue/blob/main/LICENSE) 
 
-### Estudo de caso e Prática pessoal.
+### Estudo de caso e prática.
 
 O estudo é baseado na execução de uma galeria de fotos utilizando React.
 
